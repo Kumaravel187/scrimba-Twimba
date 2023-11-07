@@ -119,7 +119,7 @@ const handleTweetBtnClick = () => {
   if (tweetInput.value) {
     let tweetObj = {
       handle: `@Apunehneh`,
-      profilePic: `images/seyan.png`,
+      profilePic: `../images/seyan.png`,
       likes: 0,
       retweets: 0,
       tweetText: tweetInput.value,
