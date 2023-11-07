@@ -12,7 +12,7 @@ export const tweetsData = [
   },
   {
     handle: `@EmersonCrack`,
-    profilePic: `images/emerson.png`,
+    profilePic: `./images/emerson.png`,
     likes: 6500,
     retweets: 234,
     tweetText: `I was today years old when I realised that oranges are meant to be peeled open. WTF. bodoh`,
