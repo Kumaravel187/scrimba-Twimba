@@ -1,7 +1,7 @@
 export const tweetsData = [
   {
     handle: `@siddohandsome`,
-    profilePic: `images/sid.png`,
+    profilePic: `../images/sid.png`,
     likes: 27,
     retweets: 10,
     tweetText: `When I grow up, I want to be pilot and fight for pakistan!`,
